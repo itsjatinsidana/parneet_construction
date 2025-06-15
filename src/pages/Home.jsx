@@ -11,7 +11,7 @@ const Home = () => {
               <div className="row justify-content-center">
                 <div className="col-lg-6 text-center">
                   <h2 data-aos="fade-down">
-                    Welcome to <span>UpConstruction</span>
+                    Welcome to <span>G.N. Construction</span>
                   </h2>
                   <p data-aos="fade-up">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
